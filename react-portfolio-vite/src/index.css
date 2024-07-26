@@ -18,15 +18,15 @@ header {
   padding-left: 30px;
   text-align: left;
   position: relative;
-  top: 15px;
+  top: 5px;
   /* background-color: var(--SilverLakeBlue); */
   background-image: url(../assets.img/Screenshot\ 2024-07-23\ at\ 9.05.22\ PM.png);
   background-repeat: no-repeat;
-  background-size: 1350px 200px;
+  background-size: 1300px 200px;
   opacity: 0.8;
   margin-left: 5px;
   margin-right: 5px;
-  padding-top: 40px;
+  padding-top: 10px;
 
 
 
@@ -70,7 +70,7 @@ html {
 
 body {
 
-  background: var(--Eggshell);
+  background: var(--Paynegray);
   margin: 0;
   width: 100vw;
   height: 100vh;
@@ -159,7 +159,7 @@ h2 {
 
 .about-me-p {
 
-  background-color: var(--SilverLakeBlue);
+  
   text-align: center;
   text-indent: 2%;
   font-size: 38px;
@@ -185,8 +185,8 @@ h2 {
 }
 
 .box {
-  height: 250px;
-  width: 350px;
+  height: 450px;
+  width: 550px;
   border-style: solid;
   border-width: 3px;
   padding: 6px;
